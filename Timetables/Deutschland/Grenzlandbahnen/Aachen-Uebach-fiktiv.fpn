@@ -14,28 +14,28 @@
 <ErsatzfahrplaenePDF/>
 <Begruessungsdatei/>
 <Zug>
-<Datei Dateiname="Timetables\Test\GLB_test\RE18001.trn"/>
+<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv\RE18001.trn"/>
 </Zug>
 <Zug>
-<Datei Dateiname="Timetables\Test\GLB_test\RE18002.trn"/>
+<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv\RE18002.trn"/>
 </Zug>
 <Zug>
-<Datei Dateiname="Timetables\Test\GLB_test\RB200001.trn"/>
+<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv\RB200001.trn"/>
 </Zug>
 <Zug>
-<Datei Dateiname="Timetables\Test\GLB_test\Gag84465.trn"/>
+<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv\Gag84465.trn"/>
 </Zug>
 <Zug>
-<Datei Dateiname="Timetables\Test\GLB_test\IRE258.trn"/>
+<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv\IRE258.trn"/>
 </Zug>
 <Zug>
-<Datei Dateiname="Timetables\Test\GLB_test\RB54352.trn"/>
+<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv\RB54352.trn"/>
 </Zug>
 <Zug>
-<Datei Dateiname="Timetables\Test\GLB_test\Ueg68465.trn"/>
+<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv\Ueg68465.trn"/>
 </Zug>
 <Zug>
-<Datei Dateiname="Timetables\Test\GLB_test\ICE468.trn"/>
+<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv\ICE468.trn"/>
 </Zug>
 <StrModul>
 <Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Aachen_Hbf_1981.st3"/>
