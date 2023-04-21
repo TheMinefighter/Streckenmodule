@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="IRE" Nummer="258" Prio="2222" Standortmodus="1" BremsstellungZug="5" APBeschl="0.5" ReisendenDichte="0.6" Rekursionstiefe="5" FahrstrName="Aachen Hbf F -&gt; Aachen Hbf P9" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_0Debug.dll">
+<Datei Dateiname="Timetables\Test\GLB_test.fpn" NurInfo="1"/>
+<FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Aachen Hbf" FzgVerbandAktion="2" FzgVerbandAktionWendesignal="1" FzgVerbandWendeSignalabstand="100">
+<FahrplanSignalEintrag FahrplanSignal="P9"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Aachen Hbf">
+<FahrplanSignalEintrag FahrplanSignal="N9"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Sbk 11">
+<FahrplanSignalEintrag FahrplanSignal="Sbk 11"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" SASchaltung="2" Gedreht="1" NVRNummer="91 88 0180 373-8">
+<Datei Dateiname="RollingStock\Belgien\Epoche6\Elektroloks\HLE18\HLE18.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" NVRNummer="61 88 8090 018-7">
+<Datei Dateiname="RollingStock\Belgien\Epoche5\Reisezugwagen\I11\B.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" NVRNummer="61 88 8090 315-7">
+<Datei Dateiname="RollingStock\Belgien\Epoche5\Reisezugwagen\I11\B.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" NVRNummer="61 88 8090 361-1">
+<Datei Dateiname="RollingStock\Belgien\Epoche5\Reisezugwagen\I11\B.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" NVRNummer="61 88 8090 113-6">
+<Datei Dateiname="RollingStock\Belgien\Epoche5\Reisezugwagen\I11\B.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" NVRNummer="61 88 8090 020-3">
+<Datei Dateiname="RollingStock\Belgien\Epoche5\Reisezugwagen\I11\B.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" NVRNummer="61 88 8090 670-5">
+<Datei Dateiname="RollingStock\Belgien\Epoche5\Reisezugwagen\I11\B.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="2" Gedreht="1" NVRNummer="61 88 8090 435-3">
+<Datei Dateiname="RollingStock\Belgien\Epoche5\Reisezugwagen\I11\BDx.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

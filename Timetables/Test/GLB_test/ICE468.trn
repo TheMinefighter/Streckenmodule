@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="ICE" Nummer="468" Prio="1500" BremsstellungZug="5" MBrh="1.9456" APBeschl="0.5" ReisendenDichte="0.6" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Aachen Hbf 8 -&gt; Aachen Hbf N8" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_0Debug.dll">
+<Datei Dateiname="Timetables\Test\GLB_test.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2022-10-23 04:00:00" Abf="2022-10-23 04:10:00" Betrst="Aachen Hbf">
+<FahrplanSignalEintrag FahrplanSignal="N8"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2022-10-23 04:11:00" Abf="2022-10-23 04:12:00" Betrst="Sbk 11">
+<FahrplanSignalEintrag FahrplanSignal="Sbk 11"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="5" IDNeben="1" DotraModus="1" SASchaltung="2" NVRNummer="93 80 5406 051-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE3\ICE3_Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="2" NVRNummer="93 80 5406 152-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE3\ICE3_Trafowagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" DotraModus="1" SASchaltung="2" NVRNummer="93 80 5406 250-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE3\ICE3_Stromrichterwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" DotraModus="1" SASchaltung="2" NVRNummer="93 80 5406 354-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE3\ICE3_Speisewagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" DotraModus="1" SASchaltung="2" NVRNummer="93 80 5406 854-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE3\ICE3_Mittelwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="4" IDNeben="1" DotraModus="1" SASchaltung="2" NVRNummer="93 80 5406 758-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE3\ICE3_Stromrichterwagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="4" IDNeben="1" DotraModus="1" SASchaltung="2" NVRNummer="93 80 5406 657-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE3\ICE3_Trafowagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="6" IDNeben="1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="93 80 5406 550-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Elektrotriebwagen\ICE3\ICE3_Endwagen.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

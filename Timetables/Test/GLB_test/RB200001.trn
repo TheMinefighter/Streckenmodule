@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="RB" Nummer="200001" Prio="2222" Standortmodus="1" BremsstellungZug="5" MBrh="1.8353" APBeschl="0.5" ReisendenDichte="0.6" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Herzogenrath G" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_0Debug.dll">
+<Datei Dateiname="Timetables\Test\GLB_test.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2022-10-23 04:00:00" Abf="2022-10-23 04:10:00" Betrst="Herzogenrath">
+<FahrplanSignalEintrag FahrplanSignal="G"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:11:00" Betrst="Herzogenrath">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:13:00" Betrst="Bk Pesch">
+<FahrplanSignalEintrag FahrplanSignal="B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:15:00" Betrst="Kohlscheid">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:16:00" Betrst="Kohlscheid">
+<FahrplanSignalEintrag FahrplanSignal="B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:18:00" Betrst="Abzw Richterich">
+<FahrplanSignalEintrag FahrplanSignal="H"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:19:00" Betrst="Aachen West">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:20:00" Betrst="Aachen West">
+<FahrplanSignalEintrag FahrplanSignal="S91"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:21:00" Betrst="Aachen West Pbf">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:22:00" Betrst="Aachen Hbf">
+<FahrplanSignalEintrag FahrplanSignal="G"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2022-10-23 04:23:00" Abf="2022-10-23 05:23:00" Betrst="Aachen Hbf">
+<FahrplanSignalEintrag FahrplanSignal="P5"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Dieseltriebwagen\Talent\Talent_A-Wagen.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Dieseltriebwagen\Talent\Talent_Mittelwagen_59.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Dieseltriebwagen\Talent\Talent_B-Wagen.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="Üg" Nummer="68465" Prio="2222" Standortmodus="1" BremsstellungZug="2" APBeschl="0.5" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Aachen West B" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_0Debug.dll">
+<Datei Dateiname="Timetables\Test\GLB_test.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2022-10-23 04:00:00" Abf="2022-10-23 04:10:00" Betrst="Aachen West">
+<FahrplanSignalEintrag FahrplanSignal="B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:17:00" Betrst="Aachen West">
+<FahrplanSignalEintrag FahrplanSignal="R201"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:24:00" Betrst="Aachen West Pbf">
+<FahrplanSignalEintrag FahrplanSignal="R1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:32:00" Betrst="Aachen West">
+<FahrplanSignalEintrag FahrplanSignal="N92"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:40:00" Betrst="Abzw Richterich">
+<FahrplanSignalEintrag FahrplanSignal="K"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2022-10-23 04:59:00" Abf="2022-10-23 05:59:00" Betrst="nach Maastricht">
+<FahrplanSignalEintrag FahrplanSignal="Regelgleis"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" NVRNummer="92 80 1218 207-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche3\Dieselloks\BRD\V160_Familie\218\218.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

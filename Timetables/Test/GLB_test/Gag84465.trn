@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="Gag" Nummer="84465" Prio="2222" Standortmodus="1" BremsstellungZug="2" MBrh="0.945" APBeschl="0.5" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Übach-Palenberg F" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_0Debug.dll">
+<Datei Dateiname="Timetables\Test\GLB_test.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2022-10-23 04:00:00" Abf="2022-10-23 04:10:00" Betrst="Übach-Palenberg">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:11:00" Betrst="Übach-Palenberg">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:13:00" Betrst="Sbk 4">
+<FahrplanSignalEintrag FahrplanSignal="Sbk 4"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:15:00" Betrst="Herzogenrath">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:16:00" Betrst="Herzogenrath">
+<FahrplanSignalEintrag FahrplanSignal="P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:18:00" Betrst="Bk Pesch">
+<FahrplanSignalEintrag FahrplanSignal="B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:20:00" Betrst="Kohlscheid">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:21:00" Betrst="Kohlscheid">
+<FahrplanSignalEintrag FahrplanSignal="B"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:23:00" Betrst="Abzw Richterich">
+<FahrplanSignalEintrag FahrplanSignal="H"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:24:00" Betrst="Aachen West">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:25:00" Betrst="Aachen West">
+<FahrplanSignalEintrag FahrplanSignal="S91"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2022-10-23 04:26:00" Abf="2022-10-23 05:26:00" Betrst="Aachen West Pbf">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Betrst="Aachen West">
+<FahrplanSignalEintrag FahrplanSignal="P205"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="3" IDNeben="1" NVRNummer="33 85 4992 160-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="8" IDNeben="1" NVRNummer="33 85 4992 183-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="7" IDNeben="1" NVRNummer="33 85 4992 711-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="4" IDNeben="1" NVRNummer="33 85 4992 106-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="5" IDNeben="1" NVRNummer="33 85 4992 826-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="6" IDNeben="1" NVRNummer="33 85 4992 288-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="13" IDNeben="1" NVRNummer="33 85 4992 872-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="16" IDNeben="1" NVRNummer="33 85 4992 050-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="9" IDNeben="1" NVRNummer="33 85 4992 372-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="14" IDNeben="1" NVRNummer="33 85 4992 240-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="19" IDNeben="1" NVRNummer="33 85 4992 544-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="18" IDNeben="1" NVRNummer="33 85 4992 850-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" NVRNummer="33 85 4992 315-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="8" IDNeben="1" NVRNummer="33 85 4992 321-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="7" IDNeben="1" NVRNummer="33 85 4992 373-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="4" IDNeben="1" NVRNummer="33 85 4992 621-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="5" IDNeben="1" NVRNummer="33 85 4992 408-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="6" IDNeben="1" NVRNummer="33 85 4992 882-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="13" IDNeben="1" NVRNummer="33 85 4992 784-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="12" IDNeben="1" NVRNummer="33 85 4992 018-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="15" IDNeben="1" NVRNummer="33 85 4992 440-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="22" IDNeben="1" NVRNummer="33 85 4992 233-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="17" IDNeben="1" NVRNummer="33 85 4992 437-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="21" IDNeben="1" NVRNummer="33 85 4992 876-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="16" IDNeben="1" NVRNummer="33 85 4992 827-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="19" IDNeben="1" NVRNummer="33 85 4992 135-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="18" IDNeben="1" NVRNummer="33 85 4992 506-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="3" IDNeben="1" NVRNummer="33 85 4992 716-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="8" IDNeben="1" NVRNummer="33 85 4992 335-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="7" IDNeben="1" NVRNummer="33 85 4992 382-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="4" IDNeben="1" NVRNummer="33 85 4992 738-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="5" IDNeben="1" NVRNummer="33 85 4992 253-6">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="6" IDNeben="1" NVRNummer="33 85 4992 334-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="13" IDNeben="1" NVRNummer="33 85 4992 812-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="16" IDNeben="1" NVRNummer="33 85 4992 486-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="22" IDNeben="1" NVRNummer="33 85 4992 754-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="17" IDNeben="1" NVRNummer="33 85 4992 140-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="21" IDNeben="1" NVRNummer="33 85 4992 102-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="16" IDNeben="1" NVRNummer="33 85 4992 265-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="19" IDNeben="1" NVRNummer="33 85 4992 188-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="18" IDNeben="1" NVRNummer="33 85 4992 306-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="2" SASchaltung="2">
+<Datei Dateiname="RollingStock\Danmark\Epoche5\Elektroloks\EG31\EG31.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" SASchaltung="2" NVRNummer="151 064-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche4\Elektroloks\BRD\151\151.rv.fzg"/>
+<ZugdatenLZB80 LZBStoerschalter="2" LZBGefuehrt="1" BRA="2" ZugsicherungHS="2" Lufthahn="2" PZBStoerschalter="2"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>
