@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
 <Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
-<Zug Gattung="RB" Nummer="54352" Prio="2222" BremsstellungZug="5" MBrh="1.9774" APBeschl="0.5" ReisendenDichte="0.6" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Abzw Richterich G" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_0Debug.dll">
+<Zug Gattung="RB" Nummer="54352" Prio="2222" BremsstellungZug="5" MBrh="1.9774" APBeschl="0.5" ReisendenDichte="0.6" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Abzw Richterich G" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
 <Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv.fpn" NurInfo="1"/>
 <FahrplanEintrag Ank="2022-10-23 04:00:00" Abf="2022-10-23 04:10:00" Betrst="Abzw Richterich">
 <FahrplanSignalEintrag FahrplanSignal="G"/>
