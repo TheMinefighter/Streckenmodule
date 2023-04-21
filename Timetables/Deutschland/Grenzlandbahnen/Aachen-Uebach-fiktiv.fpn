@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
-<Info DateiTyp="Fahrplan" Version="A.1" MinVersion="A.1">
-<AutorEintrag AutorID="-1" AutorName="Tobias Brohl"/>
+<Info DateiTyp="Fahrplan" Version="A.4" MinVersion="A.1" Beschreibung="Vollkommen fiktiver Fahrplan rund um Aachen.;" DateiKategorie="\Deutschland">
+<AutorEintrag AutorID="-1" AutorName="Tobias Brohl" AutorEmail="tobrohl@gmail.com" AutorBeschreibung="Habe keine Autoren ID"/>
 </Info>
 <Fahrplan AnfangsZeit="2022-10-23 04:00:00" Zeitmodus="3" ChaosVorschlagen="1" ChaosVorschlag="0.012" trnDateien="1">
-<BefehlsKonfiguration Dateiname="Signals\Deutschland\Befehle\DB408_1983.authority.xml"/>
+<BefehlsKonfiguration Dateiname="Signals\Deutschland\Befehle\408_2015.authority.xml"/>
 <LaPDF/>
 <StrebuPDF/>
 <ErsatzfahrplaenePDF/>
