@@ -23,7 +23,14 @@
 <FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Herzogenrath">
 <FahrplanSignalEintrag FahrplanSignal="A"/>
 </FahrplanEintrag>
-<FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Übach-Palenberg"/>
+<FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Übach-Palenberg">
+<FahrplanSignalEintrag FahrplanSignal="A"/>
+<FahrplanSignalEintrag FahrplanSignal="A\"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Übach-Palenberg">
+<FahrplanSignalEintrag FahrplanSignal="N2"/>
+<FahrplanSignalEintrag FahrplanSignal="N3"/>
+</FahrplanEintrag>
 <FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
 <FahrzeugInfo IDHaupt="1" IDNeben="3" EigeneZugart="1" DotraModus="1" SASchaltung="1" NVRNummer="93 80 5407 011-6">
 <Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\VelaroD\VelaroD_EW.fzg"/>
