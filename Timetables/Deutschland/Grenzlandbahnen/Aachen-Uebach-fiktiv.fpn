@@ -2,10 +2,6 @@
 <Zusi>
 <Info DateiTyp="Fahrplan" Version="A.1" MinVersion="A.1">
 <AutorEintrag AutorID="-1" AutorName="Tobias Brohl"/>
-<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-Palenberg1979_04Uhr-13Uhr\Introbild_Aachen.jpg"/>
-<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-Palenberg1979_04Uhr-13Uhr\Introbild_Fahrplan1.jpg"/>
-<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-Palenberg1979_04Uhr-13Uhr\Introbild_Fahrplan2.jpg"/>
-<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-Palenberg1979_04Uhr-13Uhr\Introbild_Grenzlast.jpg"/>
 </Info>
 <Fahrplan AnfangsZeit="2022-10-23 04:00:00" Zeitmodus="3" ChaosVorschlagen="1" ChaosVorschlag="0.012" trnDateien="1">
 <BefehlsKonfiguration Dateiname="Signals\Deutschland\Befehle\DB408_1983.authority.xml"/>
