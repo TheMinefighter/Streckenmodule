@@ -22,8 +22,32 @@
 <FahrplanSignalEintrag FahrplanSignal="Regelgleis"/>
 </FahrplanEintrag>
 <FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
-<FahrzeugInfo IDHaupt="1" IDNeben="1" NVRNummer="92 80 1218 207-9">
-<Datei Dateiname="RollingStock\Deutschland\Epoche3\Dieselloks\BRD\V160_Familie\218\218.rv.fzg"/>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" SASchaltung="2" NVRNummer="90 80 2249 008-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Hybridloks\Vectron\Vectron_DM_light.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="3" NVRNummer="37 80 5932 776-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Gueterwagen\E-Wagen\Eanos_TSOpole\Eanos_TSOpole.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="3" NVRNummer="37 80 5932 280-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Gueterwagen\E-Wagen\Eanos_TSOpole\Eanos_TSOpole.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="3" NVRNummer="37 80 5932 886-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Gueterwagen\E-Wagen\Eanos_TSOpole\Eanos_TSOpole.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="3" NVRNummer="37 80 5932 407-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Gueterwagen\E-Wagen\Eanos_TSOpole\Eanos_TSOpole.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="3" NVRNummer="37 80 5932 646-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Gueterwagen\E-Wagen\Eanos_TSOpole\Eanos_TSOpole.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="3" NVRNummer="37 80 5932 634-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Gueterwagen\E-Wagen\Eanos_TSOpole\Eanos_TSOpole.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="3" NVRNummer="37 80 5932 372-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Gueterwagen\E-Wagen\Eanos_TSOpole\Eanos_TSOpole.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="3" NVRNummer="37 80 5932 441-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Gueterwagen\E-Wagen\Eanos_TSOpole\Eanos_TSOpole.rv.fzg"/>
 </FahrzeugInfo>
 </FahrzeugVarianten>
 </Zug>

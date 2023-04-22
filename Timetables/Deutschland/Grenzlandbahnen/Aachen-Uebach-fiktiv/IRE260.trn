@@ -13,7 +13,7 @@
 <FahrplanSignalEintrag FahrplanSignal="Sbk 11"/>
 </FahrplanEintrag>
 <FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
-<FahrzeugInfo IDHaupt="2" IDNeben="1" SASchaltung="2">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" SASchaltung="2" NVRNummer="91 80 6193 623-6">
 <Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_MS.rv.fzg"/>
 </FahrzeugInfo>
 <FahrzeugInfo IDHaupt="1" IDNeben="1" NVRNummer="61 88 8090 018-7">
