@@ -39,6 +39,9 @@
 <Zug>
 <Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv\ICE866.trn"/>
 </Zug>
+<Zug>
+<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv\IRE260.trn"/>
+</Zug>
 <StrModul>
 <Datei Dateiname="Routes\Deutschland\32U_0003_0056\000295_005628_Aachen_Hauptbahnhof\Aachen_Hbf_1981.st3"/>
 <p/>
