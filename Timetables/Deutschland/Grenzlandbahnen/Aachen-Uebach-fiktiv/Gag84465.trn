@@ -3,7 +3,7 @@
 <Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
 <Zug Gattung="Gag" Nummer="84465" Prio="2222" Standortmodus="1" BremsstellungZug="2" MBrh="0.945" APBeschl="0.5" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Übach-Palenberg F" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
 <Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv.fpn" NurInfo="1"/>
-<FahrplanEintrag Ank="2022-10-23 04:00:00" Abf="2022-10-23 04:10:00" Betrst="Übach-Palenberg">
+<FahrplanEintrag Ank="2022-10-23 04:10:00" Abf="2022-10-23 04:10:00" Betrst="Übach-Palenberg" FplEintrag="1">
 <FahrplanSignalEintrag FahrplanSignal="F"/>
 </FahrplanEintrag>
 <FahrplanEintrag Abf="2022-10-23 04:11:00" Betrst="Übach-Palenberg">
@@ -12,31 +12,34 @@
 <FahrplanEintrag Abf="2022-10-23 04:13:00" Betrst="Sbk 4">
 <FahrplanSignalEintrag FahrplanSignal="Sbk 4"/>
 </FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:14:00" Betrst="Herzogenrath">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
 <FahrplanEintrag Abf="2022-10-23 04:15:00" Betrst="Herzogenrath">
-<FahrplanSignalEintrag FahrplanSignal="F"/>
-</FahrplanEintrag>
-<FahrplanEintrag Abf="2022-10-23 04:16:00" Betrst="Herzogenrath">
 <FahrplanSignalEintrag FahrplanSignal="P2"/>
+<FahrplanSignalEintrag FahrplanSignal="P3"/>
+<FahrplanSignalEintrag FahrplanSignal="4I"/>
+<FahrplanSignalEintrag FahrplanSignal="5I"/>
+<FahrplanSignalEintrag FahrplanSignal="6I"/>
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
 </FahrplanEintrag>
-<FahrplanEintrag Abf="2022-10-23 04:18:00" Betrst="Bk Pesch">
-<FahrplanSignalEintrag FahrplanSignal="B"/>
-</FahrplanEintrag>
-<FahrplanEintrag Abf="2022-10-23 04:20:00" Betrst="Kohlscheid">
+<FahrplanEintrag Abf="2022-10-23 04:18:00" Betrst="Kohlscheid">
 <FahrplanSignalEintrag FahrplanSignal="F"/>
+<FahrplanSignalEintrag FahrplanSignal="Y"/>
 </FahrplanEintrag>
-<FahrplanEintrag Abf="2022-10-23 04:21:00" Betrst="Kohlscheid">
+<FahrplanEintrag Abf="2022-10-23 04:19:00" Betrst="Kohlscheid">
 <FahrplanSignalEintrag FahrplanSignal="B"/>
 </FahrplanEintrag>
-<FahrplanEintrag Abf="2022-10-23 04:23:00" Betrst="Abzw Richterich">
+<FahrplanEintrag Abf="2022-10-23 04:20:00" Betrst="Abzw Richterich">
 <FahrplanSignalEintrag FahrplanSignal="H"/>
 </FahrplanEintrag>
-<FahrplanEintrag Abf="2022-10-23 04:24:00" Betrst="Aachen West">
+<FahrplanEintrag Abf="2022-10-23 04:21:00" Betrst="Aachen West">
 <FahrplanSignalEintrag FahrplanSignal="F"/>
 </FahrplanEintrag>
-<FahrplanEintrag Abf="2022-10-23 04:25:00" Betrst="Aachen West">
+<FahrplanEintrag Abf="2022-10-23 04:22:00" Betrst="Aachen West">
 <FahrplanSignalEintrag FahrplanSignal="S91"/>
 </FahrplanEintrag>
-<FahrplanEintrag Ank="2022-10-23 04:26:00" Abf="2022-10-23 05:26:00" Betrst="Aachen West Pbf">
+<FahrplanEintrag Ank="2022-10-23 04:23:00" Abf="2022-10-23 04:23:00" Betrst="Aachen West Pbf">
 <FahrplanSignalEintrag FahrplanSignal="P1"/>
 </FahrplanEintrag>
 <FahrplanEintrag Betrst="Aachen West">
@@ -47,6 +50,9 @@
 <Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
 </FahrzeugInfo>
 <FahrzeugInfo IDHaupt="8" IDNeben="1" NVRNummer="33 85 4992 183-5">
+<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="18" IDNeben="1" NVRNummer="33 85 4992 306-2">
 <Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
 </FahrzeugInfo>
 <FahrzeugInfo IDHaupt="7" IDNeben="1" NVRNummer="33 85 4992 711-3">
@@ -163,16 +169,23 @@
 <FahrzeugInfo IDHaupt="19" IDNeben="1" NVRNummer="33 85 4992 188-4">
 <Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
 </FahrzeugInfo>
-<FahrzeugInfo IDHaupt="18" IDNeben="1" NVRNummer="33 85 4992 306-2">
-<Datei Dateiname="RollingStock\Deutschland\Epoche5\Gueterwagen\S-Wagen\Sdggmrss\T3000\SdggmrssT3000_KombiVerkehr.rv.fzg"/>
+<FahrzeugVarianten Bezeichnung="default" PerZufallUebernehmen="1" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="2" IDNeben="1" SASchaltung="2" NVRNummer="91 80 6193 363-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_MS.rv.fzg"/>
 </FahrzeugInfo>
-<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
-<FahrzeugInfo IDHaupt="1" IDNeben="2" SASchaltung="2">
-<Datei Dateiname="RollingStock\Danmark\Epoche5\Elektroloks\EG31\EG31.rv.fzg"/>
+<FahrzeugInfo IDHaupt="4" IDNeben="4" SASchaltung="2" NVRNummer="91 80 6193 363-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_MS.rv.fzg"/>
 </FahrzeugInfo>
-<FahrzeugInfo IDHaupt="2" IDNeben="1" SASchaltung="2" NVRNummer="151 064-3">
-<Datei Dateiname="RollingStock\Deutschland\Epoche4\Elektroloks\BRD\151\151.rv.fzg"/>
-<ZugdatenLZB80 LZBStoerschalter="2" LZBGefuehrt="1" BRA="2" ZugsicherungHS="2" Lufthahn="2" PZBStoerschalter="2"/>
+<FahrzeugInfo IDHaupt="4" IDNeben="5" SASchaltung="2" NVRNummer="91 80 6193 363-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_MS.rv.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+<FahrzeugVarianten Bezeichnung="default" PerZufallUebernehmen="1" ZufallsWert="1" FzgPosition="1">
+<FahrzeugInfo IDHaupt="4" IDNeben="3" SASchaltung="2" NVRNummer="91 80 6193 363-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_MS.rv.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="4" IDNeben="1" SASchaltung="2" NVRNummer="91 80 6193 363-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektroloks\Vectron\Vectron_MS.rv.fzg"/>
 </FahrzeugInfo>
 </FahrzeugVarianten>
 </FahrzeugVarianten>

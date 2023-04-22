@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Zusi>
+<Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
+<Zug Gattung="ICE" Nummer="866" Prio="2222" BremsstellungZug="5" MBrh="1.87" APBeschl="0.5" ReisendenDichte="0.6" Rekursionstiefe="5" FahrstrName="Aufgleispunkt -&gt; Übach-Palenberg F" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv.fpn" NurInfo="1"/>
+<FahrplanEintrag Ank="2022-10-23 04:20:00" Abf="2022-10-23 04:23:00" Betrst="Übach-Palenberg" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:24:00" Betrst="Übach-Palenberg">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+<FahrplanSignalEintrag FahrplanSignal="P3"/>
+<FahrplanSignalEintrag FahrplanSignal="7II"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:28:00" Betrst="Herzogenrath">
+<FahrplanSignalEintrag FahrplanSignal="P2"/>
+<FahrplanSignalEintrag FahrplanSignal="P3"/>
+<FahrplanSignalEintrag FahrplanSignal="4I"/>
+<FahrplanSignalEintrag FahrplanSignal="5I"/>
+<FahrplanSignalEintrag FahrplanSignal="6I"/>
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:31:00" Betrst="Kohlscheid">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+<FahrplanSignalEintrag FahrplanSignal="Y"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:31:00" Betrst="Kohlscheid">
+<FahrplanSignalEintrag FahrplanSignal="B"/>
+<FahrplanSignalEintrag FahrplanSignal="C"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:33:00" Betrst="Aachen West">
+<FahrplanSignalEintrag FahrplanSignal="F"/>
+<FahrplanSignalEintrag FahrplanSignal="FF"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:35:00" Betrst="Aachen West Pbf">
+<FahrplanSignalEintrag FahrplanSignal="P1"/>
+<FahrplanSignalEintrag FahrplanSignal="P2"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Aachen Hbf">
+<FahrplanSignalEintrag FahrplanSignal="G"/>
+<FahrplanSignalEintrag FahrplanSignal="GG"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2022-10-23 04:37:00" Abf="2022-10-23 04:37:00" Betrst="Aachen Hbf" FzgVerbandAktion="2" FzgVerbandAktionWendesignal="1" FzgVerbandWendeSignalabstand="100">
+<FahrplanSignalEintrag FahrplanSignal="P3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Aachen Hbf">
+<FahrplanSignalEintrag FahrplanSignal="N3"/>
+</FahrplanEintrag>
+<FahrplanEintrag Ank="2022-10-23 04:38:00" Abf="2022-10-23 04:38:00" Betrst="Sbk 11" FplEintrag="1">
+<FahrplanSignalEintrag FahrplanSignal="Sbk 11"/>
+</FahrplanEintrag>
+<FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
+<FahrzeugInfo IDHaupt="1" IDNeben="1" EigeneZugart="1" DotraModus="1" SASchaltung="1" NVRNummer="93 80 5408 002-4">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\VelaroMS\VelaroMS_EW.fzg"/>
+<ZugdatenETCS BRH="197" ZL="210" VMZ="300" ETCSLevel="1" ETCSModus="15" Startsystem="PZB/LZB" ETCSLSS="2" ETCSCEASchalter="2" Lufthahn="2" ETCSPassivschalter="2"/>
+<ZugdatenLZB80 VMZ="300" ZL="210" LZBStoerschalter="2" BRH="200" BRA="7" ZugsicherungHS="2" Lufthahn="2" PZBStoerschalter="2"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="1" Gedreht="1" NVRNummer="93 80 5408 102-2">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\VelaroMS\VelaroMS_TW.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="1" Gedreht="1" NVRNummer="93 80 5408 202-0">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\VelaroMS\VelaroMS_SW.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="1" IDNeben="1" DotraModus="1" SASchaltung="1" Gedreht="1" NVRNummer="93 80 5408 302-8">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\VelaroMS\VelaroMS_MW.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" DotraModus="1" SASchaltung="2" Gedreht="1" NVRNummer="93 80 5408 802-7">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\VelaroMS\VelaroMS_MW.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" DotraModus="1" SASchaltung="1" NVRNummer="93 80 5408 702-9">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\VelaroMS\VelaroMS_SW.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="1" DotraModus="1" SASchaltung="1" NVRNummer="93 80 5408 602-1">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\VelaroMS\VelaroMS_TW.fzg"/>
+</FahrzeugInfo>
+<FahrzeugInfo IDHaupt="2" IDNeben="2" DotraModus="1" SASchaltung="1" Gedreht="1" NVRNummer="93 80 5408 502-3">
+<Datei Dateiname="RollingStock\Deutschland\Epoche6\Elektrotriebwagen\VelaroMS\VelaroMS_EW.fzg"/>
+</FahrzeugInfo>
+</FahrzeugVarianten>
+</Zug>
+</Zusi>

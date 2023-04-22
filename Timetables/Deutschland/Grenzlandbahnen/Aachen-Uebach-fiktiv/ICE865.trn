@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Zusi>
 <Info DateiTyp="Zug" Version="A.4" MinVersion="A.1"/>
-<Zug Gattung="ICE" Nummer="865" Prio="2222" Standortmodus="1" BremsstellungZug="5" MBrh="1.86" APBeschl="0.5" ReisendenDichte="0.6" Rekursionstiefe="5" FahrstrName="Aachen Hbf F -&gt; Aachen Hbf 3I -&gt; Aachen Hbf P3" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
+<Zug Gattung="ICE" Nummer="865" Prio="2222" BremsstellungZug="5" MBrh="1.86" APBeschl="0.5" ReisendenDichte="0.6" Rekursionstiefe="5" FahrstrName="Aachen Hbf F -&gt; Aachen Hbf 3I -&gt; Aachen Hbf P3" Zugtyp="1" Buchfahrplandll="_InstSetup\lib\timetable\Buchfahrplan_DB_2006.dll">
 <Datei Dateiname="Timetables\Deutschland\Grenzlandbahnen\Aachen-Uebach-fiktiv.fpn" NurInfo="1"/>
 <FahrplanEintrag Ank="2022-10-23 04:00:00" Abf="2022-10-23 04:00:01" Betrst="Aachen Hbf" FzgVerbandAktion="2" FzgVerbandAktionWendesignal="1" FzgVerbandWendeSignalabstand="190">
 <FahrplanSignalEintrag FahrplanSignal="P3"/>
@@ -13,6 +13,10 @@
 <FahrplanSignalEintrag FahrplanSignal="A"/>
 <FahrplanSignalEintrag FahrplanSignal="AA\"/>
 </FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Aachen West Pbf">
+<FahrplanSignalEintrag FahrplanSignal="R2"/>
+<FahrplanSignalEintrag FahrplanSignal="R1"/>
+</FahrplanEintrag>
 <FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Abzw Richterich">
 <FahrplanSignalEintrag FahrplanSignal="K"/>
 </FahrplanEintrag>
@@ -20,8 +24,16 @@
 <FahrplanSignalEintrag FahrplanSignal="A"/>
 <FahrplanSignalEintrag FahrplanSignal="X"/>
 </FahrplanEintrag>
+<FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Kohlscheid">
+<FahrplanSignalEintrag FahrplanSignal="E1"/>
+<FahrplanSignalEintrag FahrplanSignal="E4"/>
+</FahrplanEintrag>
 <FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Herzogenrath">
-<FahrplanSignalEintrag FahrplanSignal="A"/>
+<FahrplanSignalEintrag FahrplanSignal="N1"/>
+<FahrplanSignalEintrag FahrplanSignal="N3"/>
+<FahrplanSignalEintrag FahrplanSignal="6II"/>
+<FahrplanSignalEintrag FahrplanSignal="5II"/>
+<FahrplanSignalEintrag FahrplanSignal="N4"/>
 </FahrplanEintrag>
 <FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Übach-Palenberg">
 <FahrplanSignalEintrag FahrplanSignal="A"/>
@@ -30,6 +42,7 @@
 <FahrplanEintrag Abf="2022-10-23 04:00:00" Betrst="Übach-Palenberg">
 <FahrplanSignalEintrag FahrplanSignal="N2"/>
 <FahrplanSignalEintrag FahrplanSignal="N3"/>
+<FahrplanSignalEintrag FahrplanSignal="7I"/>
 </FahrplanEintrag>
 <FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
 <FahrzeugInfo IDHaupt="1" IDNeben="3" EigeneZugart="1" DotraModus="1" SASchaltung="1" NVRNummer="93 80 5407 011-6">
