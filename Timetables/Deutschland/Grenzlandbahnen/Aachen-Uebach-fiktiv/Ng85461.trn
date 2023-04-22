@@ -29,7 +29,7 @@
 <FahrplanSignalEintrag FahrplanSignal="32II"/>
 </FahrplanEintrag>
 <FahrzeugVarianten Bezeichnung="default" ZufallsWert="1">
-<FahrzeugInfo IDHaupt="3" IDNeben="2">
+<FahrzeugInfo IDHaupt="3" IDNeben="2" NVRNummer="215 135-5">
 <Datei Dateiname="RollingStock\Deutschland\Epoche3\Dieselloks\BRD\V160_Familie\215\215.rv.fzg"/>
 </FahrzeugInfo>
 <FahrzeugVarianten Bezeichnung="default" PerZufallUebernehmen="1" ZufallsWert="1" FzgPosition="1">
